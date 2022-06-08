@@ -1,0 +1,14 @@
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.deps.json
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csprojAssemblyReference.cache
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CoreCompileInputs.cache
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Saravana\FSDProject\E-Healthcare-BackendProject\E-Healthcare-BackendProject\E-Healthcare-ASP\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb
